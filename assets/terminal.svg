@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="286" viewBox="0 0 780 286" role="img" aria-label="Animated terminal: Trias, aspiring SOC Analyst, triaging Wazuh alerts">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Consolas,"Liberation Mono",Menlo,monospace;font-size:14px}
+.p{fill:#3fb950;font-weight:bold}.c{fill:#e6edf3}.o{fill:#8b949e}.h{fill:#e6edf3;font-weight:bold}
+.g{fill:#3fb950}.b{fill:#58a6ff}.y{fill:#d29922}.r{fill:#f85149}
+@keyframes k0{
+  0%,5.430%{transform:translateX(0)}
+  5.520%{transform:translateX(146.2px);animation-timing-function:steps(6,end)}
+  8.416%,99.5%{transform:translateX(221.79999999999998px)}
+  100%{transform:translateX(0)}
+}
+.k0{animation:k0 11.05s linear infinite}
+@keyframes k1{
+  0%,12.489%{transform:translateX(0)}
+  12.579%,99.5%{transform:translateX(471.2px)}
+  100%{transform:translateX(0)}
+}
+.k1{animation:k1 11.05s linear infinite}
+@keyframes k2{
+  0%,15.204%{transform:translateX(0)}
+  15.294%{transform:translateX(146.2px);animation-timing-function:steps(13,end)}
+  21.674%,99.5%{transform:translateX(282px)}
+  100%{transform:translateX(0)}
+}
+.k2{animation:k2 11.05s linear infinite}
+@keyframes k3{
+  0%,25.747%{transform:translateX(0)}
+  25.837%,99.5%{transform:translateX(565.8px)}
+  100%{transform:translateX(0)}
+}
+.k3{animation:k3 11.05s linear infinite}
+@keyframes k4{
+  0%,28.462%{transform:translateX(0)}
+  28.552%{transform:translateX(146.2px);animation-timing-function:steps(41,end)}
+  48.869%,99.5%{transform:translateX(522.8px)}
+  100%{transform:translateX(0)}
+}
+.k4{animation:k4 11.05s linear infinite}
+@keyframes k5{
+  0%,52.941%{transform:translateX(0)}
+  53.032%,99.5%{transform:translateX(540px)}
+  100%{transform:translateX(0)}
+}
+.k5{animation:k5 11.05s linear infinite}
+@keyframes k6{
+  0%,55.656%{transform:translateX(0)}
+  55.747%,99.5%{transform:translateX(565.8px)}
+  100%{transform:translateX(0)}
+}
+.k6{animation:k6 11.05s linear infinite}
+@keyframes k7{
+  0%,58.371%{transform:translateX(0)}
+  58.462%,99.5%{transform:translateX(557.1999999999999px)}
+  100%{transform:translateX(0)}
+}
+.k7{animation:k7 11.05s linear infinite}
+@keyframes k8{
+  0%,61.086%{transform:translateX(0)}
+  61.176%,99.5%{transform:translateX(479.79999999999995px)}
+  100%{transform:translateX(0)}
+}
+.k8{animation:k8 11.05s linear infinite}
+@keyframes show{0%,63.801%{opacity:0}63.891%,99.5%{opacity:1}100%{opacity:0}}
+.show{animation:show 11.05s linear infinite}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+.blink{animation:blink 1s step-end infinite}
+</style>
+<rect width="780" height="286" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0 10a10 10 0 0 1 10-10h760a10 10 0 0 1 10 10v22H0z" fill="#161b22"/>
+<circle cx="20" cy="16" r="6" fill="#ff5f56"/><circle cx="40" cy="16" r="6" fill="#ffbd2e"/><circle cx="60" cy="16" r="6" fill="#27c93f"/>
+<text x="390" y="21" text-anchor="middle" class="o" style="font-size:12px">trias@soc-lab — wazuh alerts</text>
+<text x="20" y="62" xml:space="preserve"><tspan class="p">trias@soc-lab:~$ </tspan><tspan class="c">whoami</tspan></text>
+<text x="20" y="84" xml:space="preserve"><tspan class="h">Trias</tspan><tspan class="o"> · aspiring SOC Analyst · CS @ BINUS University</tspan></text>
+<text x="20" y="106" xml:space="preserve"><tspan class="p">trias@soc-lab:~$ </tspan><tspan class="c">cat focus.txt</tspan></text>
+<text x="20" y="128" xml:space="preserve"><tspan class="g">[SIEM] </tspan><tspan class="o">Wazuh, Splunk   </tspan><tspan class="b">[Backend] </tspan><tspan class="o">Kotlin/Ktor   </tspan><tspan class="y">[Automation] </tspan><tspan class="o">n8n</tspan></text>
+<text x="20" y="150" xml:space="preserve"><tspan class="p">trias@soc-lab:~$ </tspan><tspan class="c">tail -f /var/ossec/logs/alerts/alerts.log</tspan></text>
+<text x="20" y="172" xml:space="preserve"><tspan class="y">rule 5710 </tspan><tspan class="o">sshd: login attempt with non-existent user   </tspan><tspan class="y">lvl 5</tspan></text>
+<text x="20" y="194" xml:space="preserve"><tspan class="r">evt  4625 </tspan><tspan class="o">multiple failed logons detected → alert fired  </tspan><tspan class="r">lvl 10</tspan></text>
+<text x="20" y="216" xml:space="preserve"><tspan class="b">rule 550  </tspan><tspan class="o">FIM: integrity checksum changed /etc/passwd    </tspan><tspan class="b">lvl 7</tspan></text>
+<text x="20" y="238" xml:space="preserve"><tspan class="g">✔ </tspan><tspan class="o">triaged, mapped to MITRE ATT&amp;CK T1110 (Brute Force)</tspan></text>
+<rect class="k0" x="18" y="46" width="221.79999999999998" height="22" fill="#0d1117"/>
+<rect class="k1" x="18" y="68" width="471.2" height="22" fill="#0d1117"/>
+<rect class="k2" x="18" y="90" width="282" height="22" fill="#0d1117"/>
+<rect class="k3" x="18" y="112" width="565.8" height="22" fill="#0d1117"/>
+<rect class="k4" x="18" y="134" width="522.8" height="22" fill="#0d1117"/>
+<rect class="k5" x="18" y="156" width="540" height="22" fill="#0d1117"/>
+<rect class="k6" x="18" y="178" width="565.8" height="22" fill="#0d1117"/>
+<rect class="k7" x="18" y="200" width="557.1999999999999" height="22" fill="#0d1117"/>
+<rect class="k8" x="18" y="222" width="479.79999999999995" height="22" fill="#0d1117"/>
+<g class="show"><text x="20" y="260" xml:space="preserve"><tspan class="p">trias@soc-lab:~$ </tspan></text>
+<rect class="blink" x="166.2" y="247" width="8" height="16" fill="#e6edf3"/></g>
+</svg>
