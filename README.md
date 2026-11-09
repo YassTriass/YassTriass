@@ -5,6 +5,10 @@
   Computer Science student at <b>BINUS University</b> · <b>PPTI BCA</b> scholarship awardee
 </p>
 
+<p align="center">
+  <img src="./assets/terminal.svg" alt="Animated terminal: Trias triaging Wazuh alerts" width="100%" />
+</p>
+
 ---
 
 ### 🛡️ About Me
