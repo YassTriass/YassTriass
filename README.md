@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Hi,%20I'm%20Trias%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38" alt="Header banner" width="100%" />
-</p>
+<h1 align="center">Hi, I'm Trias 👋</h1>
 
 <h3 align="center">Aspiring SOC Analyst · Backend Developer (Kotlin/Ktor) · Automation Builder (n8n)</h3>
 
@@ -94,7 +92,3 @@ Computer Science student at <b>BINUS University</b> · <b>PPTI BCA</b> scholarsh
 - 🔍 Deepening SIEM skills: writing detection rules and investigating alerts in Wazuh & Splunk
 - 🧱 Building REST APIs with Ktor
 - 🤖 Building n8n automations for personal projects
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" alt="Footer banner" width="100%" />
-</p>
