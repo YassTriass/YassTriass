@@ -76,4 +76,4 @@
 
 - 🔍 Deepening SIEM skills: writing detection rules and investigating alerts in Wazuh & Splunk
 - 🧱 Building REST APIs with Ktor
-- 🤖 Building n8n automations for small businesses
+- 🤖 Building n8n automations for self project
