@@ -1,8 +1,15 @@
-<h1 align="center">Hi, I'm Trias 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Hi,%20I'm%20Trias%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38" alt="Header banner" width="100%" />
+</p>
+
 <h3 align="center">Aspiring SOC Analyst · Backend Developer (Kotlin/Ktor) · Automation Builder (n8n)</h3>
 
 <p align="center">
-  Computer Science student at <b>BINUS University</b> · <b>PPTI BCA</b> scholarship awardee
+Computer Science student at <b>BINUS University</b> · <b>PPTI BCA</b> scholarship awardee
+</p>
+
+<p align="center">
+  <a href="mailto:nursyahputra542@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -23,15 +30,23 @@
 
 | Lab | What I built |
 |---|---|
-| **Wazuh Endpoint Security Lab** | YARA integration via Active Response, custom detection rules, custom SCA policy, plus FIM, Vulnerability Detection, and MITRE ATT&CK mapping |
-| **Home SIEM Lab (Splunk)** | Splunk + Universal Forwarder on Windows with Sysmon, and an alert for multiple failed logons (Event ID 4625) |
+| **Wazuh Endpoint Security Lab** <!-- TODO: ganti jadi link setelah repo Wazuh dibuat: [Wazuh Endpoint Security Lab](https://github.com/YassTriass/NAMA_REPO) --> | YARA integration via Active Response, custom detection rules, custom SCA policy, plus FIM, Vulnerability Detection, and MITRE ATT&CK mapping |
+| **[Home SIEM Lab (Splunk)](https://github.com/YassTriass/splunk-siem-lab)** | Splunk + Universal Forwarder on Windows with Sysmon, and an alert for multiple failed logons (Event ID 4625) |
+
+<!-- Preview lab: simpan screenshot di folder assets/ lalu hapus tanda komentar di bawah -->
+<!--
+<p align="center">
+  <img src="./assets/splunk-4625-alert.png" alt="Splunk alert for multiple failed logons (Event ID 4625)" width="49%" />
+  <img src="./assets/wazuh-mitre-dashboard.png" alt="Wazuh MITRE ATT&CK dashboard" width="49%" />
+</p>
+-->
 
 ### 🚀 Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| **Fridge Food Shelf-Life Predictor** *(team project)* | App that predicts how long food in the fridge stays safe to eat. I built the backend: the `/api/v1/foods` endpoints, shelf-life rules stored in the database, and integration tests | Kotlin · Ktor · PostgreSQL · HikariCP |
-| **Telegram Money Tracker** | Automated personal finance tracker via Telegram with `/saldo`, `/anggaran`, `/laporan` commands, budget alerts, and monthly reports, powered by a local LLM | n8n · Ollama · Google Sheets API · Telegram Bot API |
+| **Fridge Food Shelf-Life Predictor** *(team project, private repo)* | App that predicts how long food in the fridge stays safe to eat. I built the backend: the `/api/v1/foods` endpoints, shelf-life rules stored in the database, and integration tests | Kotlin · Ktor · PostgreSQL · HikariCP |
+| **[Telegram Money Tracker](https://github.com/YassTriass/n8n-money-tracker)** | Automated personal finance tracker via Telegram with `/saldo`, `/anggaran`, `/laporan` commands, budget alerts, and monthly reports, powered by a local LLM | n8n · Ollama · Google Sheets API · Telegram Bot API |
 
 ---
 
@@ -78,4 +93,8 @@
 
 - 🔍 Deepening SIEM skills: writing detection rules and investigating alerts in Wazuh & Splunk
 - 🧱 Building REST APIs with Ktor
-- 🤖 Building n8n automations for self project
+- 🤖 Building n8n automations for personal projects
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" alt="Footer banner" width="100%" />
+</p>
